@@ -117,6 +117,9 @@ venv.bak/
 # iframe
 iframe_figures/
 
+# ipynb
+.ipynb_checkpoints/
+
 # Rope project settings
 .ropeproject
 
